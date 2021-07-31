@@ -1,4 +1,5 @@
 # This repository is the origial AIRPrediction. There is one repository that is forked from this repository that is extended this project EXCEPT machine learning part. 
+The forked AIRPrediction fully utilizes machine learning models in this original repository (Author: Yuko Matsumoto) 
 
 # AIRPrediction
 (Framework) AIR Quality Forecast Model leveraging Time Series Models to enable timely preventive measures to reduce harmful impact on U.S. citizens.
