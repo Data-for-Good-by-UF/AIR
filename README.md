@@ -2,7 +2,7 @@
 There is a repository that is forked from this repository. 
 The forked repository experimented this original repository and implemented additional functionalities to complete the project EXCEPT machine learning part (Time Series Models such as Facebook Prophet and ARIMA.)
 
-The forked AIRPrediction fully utilizes machine learning models (Facebook Prophet and ARIMA) in this original repository (Author: Yuko Matsumoto) Machine learning parts(Facebook Prophet and ARIMA) were fully implemented at the time of the forked repository of this repository was formed. 
+The forked AIRPrediction fully utilizes machine learning models (Facebook Prophet and ARIMA) in this original repository (Author: Yuko Matsumoto) Machine learning/statistical models (Facebook Prophet and ARIMA) were fully implemented at the time of the forked repository of this repository was formed. 
 
 # AIRPrediction (Originator: Yuko Matsumoto)
 (Framework) AIR Quality Forecast Model leveraging Time Series Models to enable timely preventive measures to reduce harmful impact on U.S. citizens.
