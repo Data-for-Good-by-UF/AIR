@@ -1,6 +1,6 @@
 # This the Origial AIRPrediction Repository.
 There is a repository that is forked from this repository. 
-The forked repository experimented this original repository and implemented additional functionalities to complete the project EXCEPT machine learning part (Time Series Models such as Facebook Prophet and ARIMA.)
+The forked repository experimented this original repository and implemented additional functionalities to complete the project EXCEPT machine learning/statistical models (Time Series Models such as Facebook Prophet and ARIMA.)
 
 The forked AIRPrediction fully utilizes machine learning models (Facebook Prophet and ARIMA) in this original repository (Author: Yuko Matsumoto) Machine learning/statistical models (Facebook Prophet and ARIMA) were fully implemented at the time of the forked repository of this repository was formed. 
 
