@@ -1,4 +1,4 @@
-# This the Origial AIRPrediction Repository.
+# This the Origial AIRPrediction Repository
 There is a repository that is forked from this repository. 
 The forked repository experimented this original repository and implemented additional functionalities to complete the project EXCEPT machine learning/statistical models (Time Series Models such as Facebook Prophet and ARIMA.)
 
